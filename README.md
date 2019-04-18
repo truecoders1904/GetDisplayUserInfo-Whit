@@ -15,4 +15,5 @@ A small project to demonstrate getting and displaying user info
     - If their favorite number is greater than 10, display it in green
     - If their favorite number is less than 5, display it in red
 6. Submit a pull request to merge your changes to the `master` branch
+
 Extra: If comfortable with classes, find other things in this application that could be classes, or add any other feature you might want
